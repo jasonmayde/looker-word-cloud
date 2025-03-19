@@ -1,0 +1,13 @@
+{
+    "name": "word_cloud",
+    "display_name": "Word Cloud",
+    "description": "A custom word cloud visualization for Looker Studio.",
+    "source_url": "https://github.com/jasonmayde/your-word-cloud-viz",
+    "create_date": "2025-03-19",
+    "update_date": "2025-03-19",
+    "author": {
+      "name": "Jason Mayde",
+      "company": "Jason Mayde",
+      "email": "peomper@gmail.com"
+    }
+  }

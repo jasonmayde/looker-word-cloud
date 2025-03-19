@@ -1,0 +1,11 @@
+{
+    "name": "word-cloud-looker",
+    "version": "1.0.0",
+    "description": "A Looker Studio Word Cloud Visualization",
+    "main": "index.js",
+    "dependencies": {
+      "d3": "^5.16.0",
+      "d3-cloud": "^1.2.5",
+      "@looker/viz/dscc": "^1.0.0"
+    }
+  }
